@@ -519,8 +519,7 @@ def main():
     #my library
     gsrmain = gsr_main(booking)
     current_date_main = curent_date_main() #for current data 
-    # ref_booking = check_main(querybookingref) #check cancelled booking
-     # to display avial gsr in keyboard  
+
 
     # Add conversation handler with the states GENDER, PHOTO, LOCATION and BIO
     conv_handler = ConversationHandler(
