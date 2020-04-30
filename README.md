@@ -5,3 +5,7 @@ This repository contains files that is use to create the telegram bot.
 3. mymod.py - For API request and other aided function for app.py
 4. requirements.txt - Libaries use for building the bot
 5. credentials.py - For storing of credentials information like Token and Heroku URL. Due to privacy reasons, we have remove them
+
+For more information on the project: 
+
+https://medium.com/@hjy1998x/ask-gsr-smu-next-gen-fbs-88413e702ead
