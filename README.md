@@ -1,4 +1,4 @@
-This repository contains files that is use to create the telegram bot.
+This repository contains files that is use to create a room booking chat bot.
 
 1. app.py - Contains codes for the bot 
 2. Procfile - To instruct Heroku server to run app.py
