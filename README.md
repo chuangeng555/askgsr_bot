@@ -1,4 +1,4 @@
-This repository contains files that is use to create a room booking chat bot.
+This repository contains files that is use to create a prototype of a room booking chat bot.
 
 1. app.py - Contains codes for the bot 
 2. Procfile - To instruct Heroku server to run app.py
@@ -9,3 +9,6 @@ This repository contains files that is use to create a room booking chat bot.
 For more information on the project: 
 
 https://medium.com/@hjy1998x/ask-gsr-smu-next-gen-fbs-88413e702ead
+
+Bot: @askgsr_smu_203_bot
+
