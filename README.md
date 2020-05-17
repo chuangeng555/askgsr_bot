@@ -4,7 +4,7 @@ This repository contains files that is use to create a room booking chat bot.
 2. Procfile - To instruct Heroku server to run app.py
 3. mymod.py - For API request and other aided function for app.py
 4. requirements.txt - Libaries use for building the bot
-5. credentials.py - For storing of credentials information like Token and Heroku URL. Due to privacy reasons, we have remove them
+5. credentials.py - For storing of credentials information like Token and our API URL. Due to privacy and security reasons, we have remove them
 
 For more information on the project: 
 
